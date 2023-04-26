@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\study iti\oop c#\ass\lab7\lab77\bin\Debug\netcoreapp3.1\lab77.exe
+C:\Users\USER\Desktop\study iti\oop c#\ass\lab7\lab77\bin\Debug\netcoreapp3.1\lab77.deps.json
+C:\Users\USER\Desktop\study iti\oop c#\ass\lab7\lab77\bin\Debug\netcoreapp3.1\lab77.runtimeconfig.json
+C:\Users\USER\Desktop\study iti\oop c#\ass\lab7\lab77\bin\Debug\netcoreapp3.1\lab77.runtimeconfig.dev.json
+C:\Users\USER\Desktop\study iti\oop c#\ass\lab7\lab77\bin\Debug\netcoreapp3.1\lab77.dll
+C:\Users\USER\Desktop\study iti\oop c#\ass\lab7\lab77\bin\Debug\netcoreapp3.1\lab77.pdb
+C:\Users\USER\Desktop\study iti\oop c#\ass\lab7\lab77\obj\Debug\netcoreapp3.1\lab77.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\study iti\oop c#\ass\lab7\lab77\obj\Debug\netcoreapp3.1\lab77.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\study iti\oop c#\ass\lab7\lab77\obj\Debug\netcoreapp3.1\lab77.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\study iti\oop c#\ass\lab7\lab77\obj\Debug\netcoreapp3.1\lab77.AssemblyInfo.cs
+C:\Users\USER\Desktop\study iti\oop c#\ass\lab7\lab77\obj\Debug\netcoreapp3.1\lab77.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\study iti\oop c#\ass\lab7\lab77\obj\Debug\netcoreapp3.1\lab77.dll
+C:\Users\USER\Desktop\study iti\oop c#\ass\lab7\lab77\obj\Debug\netcoreapp3.1\lab77.pdb
+C:\Users\USER\Desktop\study iti\oop c#\ass\lab7\lab77\obj\Debug\netcoreapp3.1\lab77.genruntimeconfig.cache
