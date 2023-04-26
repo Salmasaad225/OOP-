@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XBSsgXLHQjEQ5mDFZTZUfvl/z8I3872YvQFODxpI59CTqjA3zQjEc7vf1nqROptFXzSPnej58a/7hhZu4Sp1wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\study iti\\oop c#\\ass\\lab 4\\lab4\\lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
